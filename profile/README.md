@@ -5,11 +5,11 @@ Aplicação web de e-commerce voltada para a vendas de produtos e utensílios de
 ---
 
 ## 📋 Índice
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Sobre](#-sobre)
-- [Funcionalidades](#-funcionalidades)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação e uso](#-instalação-uso)
+- [📂 Estrutura do Projeto](#estrutura-do-projeto)
+- [📖 Sobre](#sobre)
+- [✨ Funcionalidades](#funcionalidades)
+- [📦 Pré-requisitos](#pre-requisitos)
+- [Instalação e uso](#instalacao-e-uso)
   
 ---
 
@@ -21,7 +21,8 @@ Projeto universitário da disciplina DESENVOLVIMENTO DE SOFTWARE INTEGRADO À OP
 
 ---
 
-## ✨ Funcionalidades (Microserviços)
+## ✨ Funcionalidades
+As funcionalidades (microserviços) implementados incluem:
 - Auth-service : Autenticação e autorização de usuários (Entidade Usuário comum e administrador).
 - User-service: Gerenciamento de perfis e endereços.
 - Catalog-Service: Listagem e cadastro de produtos.
